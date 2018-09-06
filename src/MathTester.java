@@ -22,10 +22,10 @@ public class MathTester {
         total = total + 10;
         System.out.println(total);
 
-        System.out.print("What's your height in inches?");
+        /*System.out.print("What's your height in inches?");
         heightInches = keyboard.nextLine();
         personsHeight = heightInches + inchesToFeet;
-        System.out.println("Your height is " + (personsHeight));
+        System.out.println("Your height is " + (personsHeight));*/
 
 
 
