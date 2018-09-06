@@ -13,7 +13,7 @@ public class MathTester {
 
         keyboard = new Scanner(System.in);
         firstWord = "dog";
-        secondWord = "house";
+        secondWord = "catcher";
         firstNumber = 5;
         secondNumber = 10;
         inchesToFeet = (int) 0.0833333;
