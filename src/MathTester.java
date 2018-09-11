@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class MathTester {
 
     public static void main(String[] args) {
+        //Declaring Variables
         String firstWord;
         String secondWord;
         String heightInches;
@@ -10,13 +11,15 @@ public class MathTester {
         int firstNumber,secondNumber,total,inchesToFeet;
         Scanner keyboard;
 
-
+        //Initializing Variables
         keyboard = new Scanner(System.in);
         firstWord = "dog";
         secondWord = "catcher";
         firstNumber = 5;
         secondNumber = 10;
         inchesToFeet = (int) 0.0833333;
+
+        //Test
         total = firstNumber + secondNumber;
         System.out.println(total);
         total = total + 10;
